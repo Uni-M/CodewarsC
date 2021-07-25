@@ -2,8 +2,6 @@
 
 using namespace std;
 
-#include <cmath>
-using namespace std;
 inline void numCounter(long long& count, const long long& reiteration)
 {
     for (int i = 1; i <= reiteration; i *= 10)
